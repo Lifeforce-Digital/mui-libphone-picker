@@ -1,0 +1,2 @@
+import e from"react";!function(e,t){void 0===t&&(t={});var n=t.insertAt;if(e&&"undefined"!=typeof document){var r=document.head||document.getElementsByTagName("head")[0],o=document.createElement("style");o.type="text/css","top"===n&&r.firstChild?r.insertBefore(o,r.firstChild):r.appendChild(o),o.styleSheet?o.styleSheet.cssText=e:o.appendChild(document.createTextNode(e))}}("button {\r\n  font-size: 60px;\r\n}\r\n");var t=function(t){return e.createElement("button",null,t.label)};export{t as Button};
+//# sourceMappingURL=index.js.map
